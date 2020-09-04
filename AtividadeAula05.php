@@ -21,3 +21,4 @@ echo ("O valor da soma é: $soma".'<br>');
 
 $sub = $num1-$num2;
 echo ("O valor da subtração é: $sub".'<br>');
+
